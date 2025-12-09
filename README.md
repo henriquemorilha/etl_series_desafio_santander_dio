@@ -137,7 +137,6 @@ Este projeto faz parte do Santander Bootcamp (DIO) e tem como objetivo consolida
 👨‍💻 Autor
 
 Henrique Morilha
-Data Engineer | Python Developer | Enthusiast of Data Science
 🔗 GitHub: @henriquemorilha
 
 Sugerir melhorias
